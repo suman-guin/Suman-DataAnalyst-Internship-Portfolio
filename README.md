@@ -227,7 +227,8 @@ Business Insights & Recommendations
 
 # 🎥 Portfolio Walkthrough Video
 
-Watch my 4-minute Portfolio Walkthrough showcasing my complete Data Analytics Internship journey, projects, key insights, technical skills, and learning reflection.
+Watch my 4-minute Portfolio Walkthrough showcasing my complete Data Analytics Internship journey,
+projects, key insights, technical skills, and learning reflection.
 
 [▶️ Watch My Portfolio Walkthrough on LinkedIn](https://lnkd.in/p/epU7DmZK)
 
