@@ -253,9 +253,11 @@ Through this internship, I strengthened my practical understanding of:
 
 # 🚀 Professional Development
 
-This internship helped me understand the complete journey from **raw business data to meaningful insights and actionable recommendations**.
+This internship helped me understand the complete journey from
+**raw business data to meaningful insights and actionable recommendations**.
 
-It also improved my ability to combine technical data analysis skills with business-oriented thinking and professional communication.
+It also improved my ability to combine technical data analysis
+skills with business-oriented thinking and professional communication.
 
 ---
 
@@ -263,10 +265,14 @@ It also improved my ability to combine technical data analysis skills with busin
 
 | Task | Project | Repository |
 |---|---|---|
-| Task 1 | Data Immersion & Wrangling | [View Repository](https://github.com/suman-guin/ApexPlanet_Task_1) |
-| Task 2 | EDA & Business Intelligence | [View Repository](https://github.com/suman-guin/ApexPlanet_Task_2_EDA_Business_Intelligence) |
-| Task 3 | Deep-Dive Analysis & Interactive Dashboard | [View Repository](https://github.com/suman-guin/ApexPlanet-Task-3-Deep-Dive-Analysis) |
-| Task 4 | Data Storytelling & Statistical Validation | [View Repository](https://github.com/suman-guin/APEXPLANET_TASK_4_DATA_STORYTELLING) |
+| Task 1 | Data Immersion & Wrangling |
+[View Repository](https://github.com/suman-guin/ApexPlanet_Task_1) |
+| Task 2 | EDA & Business Intelligence |
+[View Repository](https://github.com/suman-guin/ApexPlanet_Task_2_EDA_Business_Intelligence) |
+| Task 3 | Deep-Dive Analysis & Interactive Dashboard |
+[View Repository](https://github.com/suman-guin/ApexPlanet-Task-3-Deep-Dive-Analysis) |
+| Task 4 | Data Storytelling & Statistical Validation |
+[View Repository](https://github.com/suman-guin/APEXPLANET_TASK_4_DATA_STORYTELLING) |
 
 ---
 
